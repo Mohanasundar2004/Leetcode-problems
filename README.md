@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0063-unique-paths-ii) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
