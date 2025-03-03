@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
