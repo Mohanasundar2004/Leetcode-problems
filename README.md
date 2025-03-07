@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
