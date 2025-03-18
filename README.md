@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
