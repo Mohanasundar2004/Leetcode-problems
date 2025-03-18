@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
