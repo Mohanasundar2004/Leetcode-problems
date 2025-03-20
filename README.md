@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 ## Hash Table
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 ## Sliding Window
 |  |
