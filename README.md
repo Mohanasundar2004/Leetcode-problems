@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
