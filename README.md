@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
