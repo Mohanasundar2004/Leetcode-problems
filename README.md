@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
