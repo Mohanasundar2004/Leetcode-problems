@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
 | [1610-xor-operation-in-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
