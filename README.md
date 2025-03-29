@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
+| [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
+| [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search Tree
 |  |
