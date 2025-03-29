@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0382-linked-list-random-node) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
