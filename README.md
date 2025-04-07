@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Design
 |  |
