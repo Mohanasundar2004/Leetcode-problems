@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0933-increasing-order-search-tree) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
