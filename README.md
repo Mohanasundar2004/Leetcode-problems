@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0724-find-pivot-index](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Database
