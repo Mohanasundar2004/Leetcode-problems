@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
