@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3830-find-closest-person](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
