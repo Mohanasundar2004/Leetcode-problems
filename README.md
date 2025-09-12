@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Queue
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -336,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
