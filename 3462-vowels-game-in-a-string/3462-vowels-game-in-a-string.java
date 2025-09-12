@@ -2,7 +2,8 @@ class Solution {
     public boolean doesAliceWin(String s) {
         String st="aeiou";
         for(int i=0;i<s.length();i++){
-            if(st.indexOf(s.charAt(i))!=-1){
+            char c=s.charAt(i);
+            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 return true;
             }
         }
