@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
