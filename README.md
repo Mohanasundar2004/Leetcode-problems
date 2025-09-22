@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3533-snake-in-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3533-snake-in-matrix) |
 ## Matrix
