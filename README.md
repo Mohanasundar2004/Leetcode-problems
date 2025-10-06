@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-find-the-highest-altitude](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1833-find-the-highest-altitude](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Database
 |  |
