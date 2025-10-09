@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
+| [0812-rotate-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
