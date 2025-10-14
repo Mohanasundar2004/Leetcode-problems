@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3533-snake-in-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Matrix
 |  |
 | ------- |
