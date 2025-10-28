@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3533-snake-in-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3533-snake-in-matrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3533-snake-in-matrix) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Database
 |  |
 | ------- |
