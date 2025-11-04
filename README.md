@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
