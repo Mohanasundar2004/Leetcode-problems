@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
+| [0768-partition-labels](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0768-partition-labels) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Design
 |  |
