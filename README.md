@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
