@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
