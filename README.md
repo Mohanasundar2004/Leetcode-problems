@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
