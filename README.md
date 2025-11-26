@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0409-longest-palindrome) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
