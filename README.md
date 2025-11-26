@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0861-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [2728-sum-in-a-matrix](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/3226-minimum-number-game) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -411,4 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohanasundar2004/Leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
